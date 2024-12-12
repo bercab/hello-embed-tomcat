@@ -1,7 +1,9 @@
 # Build and Run
 
+```
 mvn clean
 mvn exec:java
+```
 
 
 # steps to have a custom embed tomcat without connection close.
